@@ -208,8 +208,9 @@ while True:
         P("Silahkan pilih menu yang tersedia...")
 ```
 Nah disini saya akan mencoba untuk menjabarkan fungsi dari tiap-tiap syntax diatas beserta hasil outputnya.
-
-Pertama saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **Tambah Data** seperti inilah syntax nya.
+________________________________________________________________________________________________________________________
+## TAMBAH DATA
+Pertama saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Tambah Data'** seperti inilah syntax nya.
 ```python
     elif c.lower() == 't':
         i = open('database.txt','a')
@@ -263,9 +264,9 @@ Pertama saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya a
 Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawal dan memasukan ***'T'*** pada kolom yang tersedia dan kalian run, maka akan mendapat output seperti ini
 
 ![TAMBAH DATA](https://user-images.githubusercontent.com/72906579/100196070-ed390100-2f2a-11eb-995f-9ead15fa4705.png)
-
 ________________________________________________________________________________________________________________________
-Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **Ubah Data** seperti inilah syntax nya.
+## UBAH DATA
+Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Ubah Data'** seperti inilah syntax nya.
 ```python
  elif c.lower() == 'u':
         u = open('database.txt','r').read().splitlines()
@@ -342,7 +343,8 @@ Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawa
 
 ![UBAH DATA](https://user-images.githubusercontent.com/72906579/100196704-d646de80-2f2b-11eb-9da7-fbbcf4827dcf.png)
 ________________________________________________________________________________________________________________________
-Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **Hapus Data** seperti inilah syntax nya.
+## HAPUS DATA
+Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Hapus Data'** seperti inilah syntax nya.
 ```python
  elif c.lower() == 'h':
         u = open('database.txt','r').read().splitlines()
@@ -375,7 +377,8 @@ Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawa
 
 ![HAPUS DATA](https://user-images.githubusercontent.com/72906579/100197395-da273080-2f2c-11eb-991a-631c2fbe86d5.png)
 ________________________________________________________________________________________________________________________
-Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **Tampilkan Data** seperti inilah syntax nya.
+## TAMPILKAN DATA
+Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Tampilkan Data'** seperti inilah syntax nya.
 ```python
     elif c.lower() == 'l':
         i = open('database.txt','r').read().splitlines()
@@ -397,7 +400,8 @@ Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawa
 
 ![TAMPILKAN DATA](https://user-images.githubusercontent.com/72906579/100197701-3f7b2180-2f2d-11eb-9af1-5901edb0b9a6.png)
 ________________________________________________________________________________________________________________________
-Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **Tampilkan Data** seperti inilah syntax nya.
+## MENCARI DATA
+Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Mencari Data'** seperti inilah syntax nya.
 ```python
  elif c.lower() == 'c':
         cari = input(' Mencari : ')
