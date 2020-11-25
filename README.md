@@ -426,3 +426,14 @@ Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawa
 ________________________________________________________________________________________________________________________
 ## NOTE: SYNTAX SATUAN DIATAS AKAN ERROR SAAT DI RUN, JIKA KALIAN TIDAK MENGINPUTNYA SEMUA! MAKA INPUTLAH SEMUA SYNTAX DIAWAL!!
 ________________________________________________________________________________________________________________________
+
+## FLOWCHART
+Dan yang terakhir adalah saya diminta untuk membuat sebuah flowchart dari data-data yang sudah saya masukan diatas.
+
+![FLOW](https://user-images.githubusercontent.com/72906579/100230341-3489b680-2f58-11eb-94fd-bbf2e57200f8.png)
+
+Dan kurang lebih seperti itulah bentuk flowchart yang sudah sesuai dengan data-data diatas.
+________________________________________________________________________________________________________________________
+
+## *****************SELESAI!!***************** ##
+## ***************TERIMAKASIH!!*************** ##
