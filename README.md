@@ -424,4 +424,5 @@ Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawa
 
 ![CARI DATA](https://user-images.githubusercontent.com/72906579/100198477-7c93e380-2f2e-11eb-96d4-b156762dc47a.png)
 ________________________________________________________________________________________________________________________
-
+## NOTE: SYNTAX SATUAN DIATAS AKAN ERROR SAAT DI RUN, JIKA KALIAN TIDAK MENGINPUTNYA SEMUA! MAKA INPUTLAH SEMUA SYNTAX DIAWAL!!
+________________________________________________________________________________________________________________________
